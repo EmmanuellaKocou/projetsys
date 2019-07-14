@@ -28,3 +28,13 @@ Exercice 4
 
 3-)Implémentation (voir Ex04_Client.c et Ex04_Serveur.c)
 
+
+Exercice5
+
+
+1-)Les problèmes a resoudre : envoyer une requete au serveur toute les 10 secondes , modifier la valeur de la mémoire partagée
+
+2-)j'ai utilisé la fonction sleep() , pour envoyer la requete toute les 10 secondes et utilisé deux processus pour modifié la valeur de la mémoire partagée
+
+3-)Implementation (Voir Exo5_Client.c et Exo5_Serveur.c)
+
